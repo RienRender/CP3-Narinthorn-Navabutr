@@ -1,4 +1,4 @@
 s = int(input())
 t = int(input())
 
-print(s/t, "km/h")
+print(int(s/t), "km/h")
